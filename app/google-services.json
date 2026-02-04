@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421069457060",
+    "project_id": "madrassa-app-ee8f5",
+    "storage_bucket": "madrassa-app-ee8f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421069457060:android:090fe92162560daf2f0831",
+        "android_client_info": {
+          "package_name": "com.madrassa.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421069457060-78mko2qbvrqrfmsi0gjq7n0qn5raetq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEMdOAJIaE7WdbOd9wC5EobBDe-x313vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421069457060-78mko2qbvrqrfmsi0gjq7n0qn5raetq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
