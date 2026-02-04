@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "421069457060-6hkqjhfi2jbcoj6b2a877ekpbilf6e8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.madrassa.app",
+            "certificate_hash": "741e735baa4ab712b5e8df7316f929f26c137082"
+          }
+        },
+        {
           "client_id": "421069457060-78mko2qbvrqrfmsi0gjq7n0qn5raetq2.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,13 @@
             {
               "client_id": "421069457060-78mko2qbvrqrfmsi0gjq7n0qn5raetq2.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "421069457060-jnn672e2itmam7eecg4rbmeto3qlql2o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.madrassa.app"
+              }
             }
           ]
         }
